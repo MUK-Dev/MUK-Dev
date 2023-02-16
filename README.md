@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p>
   <a href="https://my-portfolio-gold-six.vercel.app/">Checkout my portfolio</a>
 </p>
 
