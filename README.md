@@ -5,12 +5,16 @@
 </p>
 
 <p>
-  I’m currently working on the MERN stack & Flutter
+  I’m currently working with the MERN stack & Flutter
 </p>
 
 
 <p>
   Checkout my package: <a href="https://www.npmjs.com/package/react-mui-event-calendar">react-mui-event-calendar</a>
+</p>
+
+<p>
+  How to reach me: Just email me at zafarusman935@gmail.com :)
 </p>
 
 
