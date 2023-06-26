@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<p>
+<h6>
   <a href="https://my-portfolio-gold-six.vercel.app/">Checkout my portfolio</a>
-</p>
+</h6>
+
+<h6>
+  I make tutorials on <a href="https://www.youtube.com/channel/UCWdnFCZ3L5di3EMFksP8Y_g">youtube</a> about React
+</h6>
 
 <p>
   I’m currently working with the MERN stack & Flutter
