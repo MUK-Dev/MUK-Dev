@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MUK-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="MUK-Dev" /> </p>
 
 ### <a href="https://muk-dev.vercel.app/">Checkout my portfolio</a>
 
