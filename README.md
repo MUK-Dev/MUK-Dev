@@ -17,6 +17,8 @@
   Checkout my package: <a href="https://www.npmjs.com/package/react-mui-event-calendar">react-mui-event-calendar</a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MUK-Dev)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p>
   How to reach me: Just email me at zafarusman935@gmail.com :)
 </p>
