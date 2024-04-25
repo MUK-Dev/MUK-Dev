@@ -23,11 +23,6 @@
   How to reach me: Just email me at zafarusman935@gmail.com :)
 </p>
 
-### My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MUK-Dev&count_private=true&theme=dracula" alt="my_stats"/>
-
-### Most Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUK-Dev&theme=dracula" alt="my_stats"/>
 
 <!--
 **MUK-Dev/MUK-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
