@@ -1,15 +1,15 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUK-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="MUK-Dev" /> </p>
 
-### <a href="https://muk-dev.vercel.app/">Checkout my portfolio</a>
+### <a href="https://muk-dev.vercel.app/">Checkout my web portfolio</a>
 
 
 
-### I make tutorials on <a href="https://www.youtube.com/channel/UCWdnFCZ3L5di3EMFksP8Y_g">youtube</a> about React
+### I make tutorials & stream on <a href="https://www.youtube.com/channel/UCWdnFCZ3L5di3EMFksP8Y_g">youtube</a> about MERN stack, Game Development & Gaming
 
 
 <p>
-  I’m currently working with the MERN stack & Flutter
+  I’m currently working as a MERN stack developer and I develop games as a hobby
 </p>
 
 
